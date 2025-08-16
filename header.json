@@ -1,5 +1,5 @@
 {
-"name" : "ここに難易度表の名前",
-"symbol" : "ここにシンボル",
-"data_url" : "ここにJSONのURL"
+"name" : "長尺筋トレリスト",
+"symbol" : "AVG",
+"data_url" : "https://script.google.com/macros/s/AKfycbyR8zpvQ_rXdrHPK0sP8BW20YPFvwJtl-lqbSTdgcuCNeblHTHB8Yz4-9FiayFT2-IAjg/exec"
 }
